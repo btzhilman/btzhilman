@@ -1,0 +1,43 @@
+{
+  "users": {
+    "6281211233903@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6283840661243@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 2
+    },
+    "6285158611300@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 2
+    }
+  },
+  "chats": {
+    "6281211233903-1634615611@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "14036815371-1534955314@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363041713709090@g.us": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {},
+  "settings": {
+    "6281383173780@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false
+    }
+  },
+  "others": {},
+  "sticker": {}
+}
